@@ -303,9 +303,11 @@ cite>img {
 }
 
 .section-plans ul {
-    background-color: #fbfefb;
+    background-color:  rgba(199, 199, 199, 0.055);
     font-size: 1rem;
     padding: 1rem;
+    border-top: rgba(133, 133, 133, 0.301) 1px solid;
+    border-bottom: rgba(133, 133, 133, 0.301) 1px solid;
 }
 
 .section-plans li {
@@ -326,7 +328,6 @@ cite>img {
     color: #f48c06;
     font-size: 1.5rem;
     padding: 0 1rem;
-
 }
 
 /* ----------------------------------------------- */
